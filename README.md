@@ -12,7 +12,9 @@ The current repository stores and links several items of university assignments,
 ## Kampus Merdeka Bank Indonesia Internship
 only shows a glimpse of the task documents due to the existence of an NDA
 
-## Certifications
+## Certificates
+Certificate on bootcamps, courses, internship, etc.
+[Open on Google Drive](https://drive.google.com/drive/folders/1K38sEvhuNNkJsWK6qlxaqs6MObeZgxNS?usp=sharing)
 
 ## Bootcamp and Projects
 All of the project already have their own repo on this github, only hyperlinks to the project repos instead
