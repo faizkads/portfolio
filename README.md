@@ -10,11 +10,14 @@ The current repository stores and links several items of university assignments,
 4. **Cyberpreneurship Project:** contains a business proposal presentation for a mobile application idea
 
 ## Kampus Merdeka Bank Indonesia Internship
-only shows a glimpse of the task documents due to the existence of an NDA
+only shows a glimpse of the task documents due to the existence of an NDA.
+
+[Open KMBI on Google Drive](https://drive.google.com/drive/folders/1US46Yxs-R60wQe1lVyP82yQwi4UHtb1f?usp=sharing)
 
 ## Certificates
 Certificate on bootcamps, courses, internship, etc.
-[Open on Google Drive](https://drive.google.com/drive/folders/1K38sEvhuNNkJsWK6qlxaqs6MObeZgxNS?usp=sharing)
+
+[Open Certificates on Google Drive](https://drive.google.com/drive/folders/1K38sEvhuNNkJsWK6qlxaqs6MObeZgxNS?usp=sharing)
 
 ## Bootcamp and Projects
 All of the project already have their own repo on this github, only hyperlinks to the project repos instead
