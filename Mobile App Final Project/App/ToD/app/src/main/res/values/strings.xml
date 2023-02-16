@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ToD</string>
+    <string name="momtext">Faiz -- The truth is i love mom the most #truth</string>
+    <string name="monkeytext">Afro -- I was pushed to pet a monkey #dare</string>
+    <string name="noodletext">Lydia -- There, i ate 2 noodle in 1 seating #dare</string>
+    <string name="username">:@username:</string>
+    <string name="follower">36 followers</string>
+    <string name="explore">Explore</string>
+    <string name="game_on">Game On!</string>
+    <string name="profile">Profile</string>
+</resources>
